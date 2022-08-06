@@ -1,5 +1,6 @@
-## Oie eu sou Jhonatan Brayan!
+## Oie eu sou Jhonatan Brayan! 
 
+Developer Full Stack Estudante
 
 
 <div align="center">
