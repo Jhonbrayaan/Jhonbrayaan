@@ -1,5 +1,5 @@
-# 💫 About Me:
-JHONATAN BRAYAN<br><br>🎯 Sou Dedicado e esforçado aos meus objetivos!<br>👨‍💻 Atualmente trabalho com desenvolvimento Backend.<br>🧠 Busco oportunidade de crescimento onde eu posso aprender e contribuir com o meu melhor!
+<div># 💫 About Me:
+🎯  Sou Dedicado e esforçado aos meus objetivos!<br>👨‍💻  Atualmente trabalho com desenvolvimento Backend.<br>🧠  Busco oportunidade de crescimento onde eu posso aprender e contribuir com o meu melhor!
 
 
 ## 🌐 Socials:
@@ -21,4 +21,4 @@ JHONATAN BRAYAN<br><br>🎯 Sou Dedicado e esforçado aos meus objetivos!<br>�
 ---
 [![](https://visitcount.itsvg.in/api?id=Jhonbrayaan&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></div>
