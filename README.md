@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5F9EA0&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jhonatan+Brayan;I'm+18+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-🎯  Sou Dedicado e esforçado aos meus objetivos!<br>👨‍💻  Atualmente trabalho com desenvolvimento Backend.<br>🧠   Busco oportunidade de crescimento onde eu posso aprender e contribuir com o meu melhor!
+💻 Desenvolvedor Back-End com experiência na criação de soluções robustas e escaláveis, voltadas para atender às necessidades de negócios e usuários. Desde 2022, venho aprimorando minhas habilidades em C#, .NET, ASP.NET e SQL Server, sempre com foco em qualidade e inovação.
 
 
 ## 🌐 Socials:
