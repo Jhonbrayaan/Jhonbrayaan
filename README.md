@@ -57,9 +57,5 @@
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
   </p>
-  
-  <h3>Visit Count:</h3>
-  <p>
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=jhonbrayaan&icon=0&color=0" alt="Visit Count"/></a>
-  </p>
+
 </div>
