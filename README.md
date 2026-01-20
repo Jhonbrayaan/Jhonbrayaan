@@ -8,8 +8,7 @@
 ---
 
 ### Sobre
-Desenvolvedor Back-End focado em **.NET e C#**, com experiência na construção de APIs, serviços e integrações robustas, priorizando **qualidade, clareza e escalabilidade**.  
-Atuo com mentalidade de produto, código limpo e responsabilidade técnica.
+Backend Developer em .NET e C#, atuando na construção de APIs escaláveis, integrações críticas e arquitetura orientada a domínio. Experiência com decisões técnicas, qualidade de código e visão de produto.
 
 ---
 
