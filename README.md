@@ -15,9 +15,7 @@
 # 💻 About Me
 
 Backend Developer focused on building scalable APIs, business integrations and maintainable software using the Microsoft ecosystem.
-
 I'm passionate about software architecture, clean code, performance and continuously improving backend applications.
-
 Currently working with enterprise systems while expanding my knowledge in Cloud, Microservices and Distributed Systems.
 
 ---
