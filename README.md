@@ -1,90 +1,65 @@
-<h1 align="center">Hi 👋, I'm Jhonatan Brayan</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jhonatanbrayan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:1e1b4b,100:512BD4&fontColor=ffffff&text=Jhonatan%20Brayan&fontSize=48&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20C%23%20%C2%B7%20.NET%20%C2%B7%20Azure&descSize=17&descAlignY=63&animation=fadeIn" width="100%" alt="Jhonatan Brayan - Backend Developer" />
 
-  <a href="mailto:jhonatanbrayan100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br />
 
----
+<a href="https://www.linkedin.com/in/jhonatanbrayan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jhonatanbrayan100@gmail.com"><img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-# 💻 About Me
+</div>
 
-Backend Developer focused on building scalable APIs, business integrations and maintainable software using the Microsoft ecosystem.
-I'm passionate about software architecture, clean code, performance and continuously improving backend applications.
-Currently working with enterprise systems while expanding my knowledge in Cloud, Microservices and Distributed Systems.
+<br />
 
----
+Backend developer working with **C# and .NET** since 2023. I'm currently at **MELVER Educação**, working on a multi-tenant (white-label) learning platform used by schools and companies.
 
-# 🚀 Current Focus
+My day to day is APIs and services in .NET, integrations with partners, and changes that touch many services at once. I also handle production issues and tune queries that got slow as the data grew.
 
-- 🔹 ASP.NET Core APIs
-- 🔹 Clean Architecture
-- 🔹 Domain Driven Design (DDD)
-- 🔹 Microservices
-- 🔹 Azure
-- 🔹 Docker
-- 🔹 SQL Server & MySQL
-- 🔹 Software Architecture
+<br />
 
----
+### Tech stack
 
-# 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,rabbitmq,githubactions,mysql,mongodb,redis,elasticsearch,git,postman,visualstudio&perline=7" alt="C#, .NET, Azure, Docker, Kubernetes, RabbitMQ, GitHub Actions, MySQL, MongoDB, Redis, Elasticsearch, Git, Postman, Visual Studio" />
 
-### Languages
+<sub>Also: ASP.NET Core · EF Core · Dapper · SQL Server · MassTransit · MediatR (CQRS) · Azure DevOps · JWT / OAuth</sub>
 
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge"/>
-</p>
 
-### Databases
+### Featured projects
 
-<p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Cloud & DevOps
+**[FIAP Cloud Games](https://github.com/Jhonbrayaan/PAIF-TEAM-SHOWCASE)**
 
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+Game store platform my team built during the FIAP postgraduate program. It started as a .NET 8 monolith and became microservices (Users, Catalog, SalesCart, Payments, Notifications) running on AKS.
 
----
+`.NET 8` `RabbitMQ` `AKS` `API Management` `Azure DevOps` `Redis` `Elasticsearch`
 
-# 📚 Education
+[Showcase](https://github.com/Jhonbrayaan/PAIF-TEAM-SHOWCASE) · [Repositories](https://github.com/PAIFteam)
 
-🎓 Analysis and Systems Development
+</td>
+<td width="50%" valign="top">
 
-🎓 FIAP — Postgraduate in .NET Software Architecture
+**[Conexão Solidária](https://github.com/PAIFteam/OngES-Core)**
 
----
+Hackathon project: a donation platform for an NGO. The API registers donations and publishes events, and a worker consumes them from RabbitMQ to update campaign totals.
 
-# 📌 Featured Projects
+`.NET 8` `Clean Architecture` `MassTransit` `MediatR` `Dapper` `JWT`
 
-🚀 **Digital House**
+[API](https://github.com/PAIFteam/OngES-Core) · [Worker](https://github.com/PAIFteam/OngES-Worker)
 
-Final project developed over one year, applying software engineering concepts, backend development and teamwork.
+</td>
+</tr>
+</table>
 
----
+<br />
 
-🏗 **FIAP Architecture Project**
+### Education
 
-Complete enterprise solution developed during the postgraduate program in .NET Software Architecture.
+- **Postgraduate in .NET Systems Architecture** · FIAP, 2026
+- **Technologist in Systems Analysis and Development** · Centro Universitário FAM, 2025
 
----
+<br />
 
-<p align="center">
-
-<i>Always learning, building and improving.</i>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=6&color=0:1e1b4b,100:512BD4" width="100%" alt="" />
